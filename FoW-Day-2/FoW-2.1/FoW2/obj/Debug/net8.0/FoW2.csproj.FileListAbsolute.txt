@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\bin\Debug\net8.0\FoW2.exe
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\bin\Debug\net8.0\FoW2.deps.json
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\bin\Debug\net8.0\FoW2.runtimeconfig.json
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\bin\Debug\net8.0\FoW2.dll
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\bin\Debug\net8.0\FoW2.pdb
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\FoW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\FoW2.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\FoW2.AssemblyInfo.cs
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\FoW2.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\FoW2.dll
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\refint\FoW2.dll
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\FoW2.pdb
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\FoW2.genruntimeconfig.cache
+C:\Users\DESKTOP\source\repos\FoW2\FoW2\obj\Debug\net8.0\ref\FoW2.dll

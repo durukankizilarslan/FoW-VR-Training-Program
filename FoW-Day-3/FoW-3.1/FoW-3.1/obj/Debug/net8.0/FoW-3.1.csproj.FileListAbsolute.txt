@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\bin\Debug\net8.0\FoW-3.1.exe
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\bin\Debug\net8.0\FoW-3.1.deps.json
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\bin\Debug\net8.0\FoW-3.1.runtimeconfig.json
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\bin\Debug\net8.0\FoW-3.1.dll
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\bin\Debug\net8.0\FoW-3.1.pdb
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\FoW-3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\FoW-3.1.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\FoW-3.1.AssemblyInfo.cs
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\FoW-3.1.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\FoW-3.1.dll
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\refint\FoW-3.1.dll
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\FoW-3.1.pdb
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\FoW-3.1.genruntimeconfig.cache
+C:\Users\DESKTOP\source\repos\FoW-Day-3\FoW-3.1\FoW-3.1\obj\Debug\net8.0\ref\FoW-3.1.dll

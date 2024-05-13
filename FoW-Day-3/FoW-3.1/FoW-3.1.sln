@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoW-3.1", "FoW-3.1\FoW-3.1.csproj", "{083046AE-2DB9-4F03-835A-0D3376F47E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083046AE-2DB9-4F03-835A-0D3376F47E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083046AE-2DB9-4F03-835A-0D3376F47E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083046AE-2DB9-4F03-835A-0D3376F47E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083046AE-2DB9-4F03-835A-0D3376F47E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FF3D6E-85F1-41E0-AD44-422869D6B8C5}
+	EndGlobalSection
+EndGlobal

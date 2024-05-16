@@ -41,3 +41,9 @@ Unity freecam, Google it and find in GitHub
 OnCollisionEnter, OnCollisionStay, OnCollisionExit,
 OnTriggerEnter, OnTriggerStay
 fonksiyonlari	
+
+-------------------------------------------------
+
+Instantiate() metodu
+
+------------------------------------

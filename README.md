@@ -47,3 +47,24 @@ fonksiyonlari
 Instantiate() metodu
 
 ------------------------------------
+
+==============================================================================================
+
+
+UNITY DAY 4
+YAPILANLAR
+=================================================================================
+
+Sahneler arasi gecis icin fonksiyonlar
+
+SceneManager.LoadScene
+Application.Quit()
+
+--------------------------------------------
+Prefab in assets
+------------------------
+
+
+Silah ekleyip kameraya gore ayarlama
+Silahin onune kursun olusturmayi ekleme
+Kursuna ses verme

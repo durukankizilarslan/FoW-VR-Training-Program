@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\bin\Debug\net8.0\FoW-4.2.exe
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\bin\Debug\net8.0\FoW-4.2.deps.json
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\bin\Debug\net8.0\FoW-4.2.runtimeconfig.json
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\bin\Debug\net8.0\FoW-4.2.dll
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\bin\Debug\net8.0\FoW-4.2.pdb
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\FoW-4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\FoW-4.2.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\FoW-4.2.AssemblyInfo.cs
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\FoW-4.2.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\FoW-4.2.dll
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\refint\FoW-4.2.dll
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\FoW-4.2.pdb
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\FoW-4.2.genruntimeconfig.cache
+C:\Users\DESKTOP\source\repos\FoW-Day-4\FoW-4.2\FoW-4.2\obj\Debug\net8.0\ref\FoW-4.2.dll

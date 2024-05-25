@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DESKTOP\\source\\repos\\FoW-Day-4\\FoW-4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2265A694-0B42-40E2-B792-550BCC5BE1CC}|FoW-4.2\\FoW-4.2.csproj|c:\\users\\desktop\\source\\repos\\fow-day-4\\fow-4.2\\fow-4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2265A694-0B42-40E2-B792-550BCC5BE1CC}|FoW-4.2\\FoW-4.2.csproj|solutionrelative:fow-4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DESKTOP\\source\\repos\\FoW-Day-4\\FoW-4.2\\FoW-4.2\\Program.cs",
+              "RelativeDocumentMoniker": "FoW-4.2\\Program.cs",
+              "ToolTip": "C:\\Users\\DESKTOP\\source\\repos\\FoW-Day-4\\FoW-4.2\\FoW-4.2\\Program.cs",
+              "RelativeToolTip": "FoW-4.2\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:52:49.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

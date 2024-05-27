@@ -1,0 +1,11 @@
+
+
+Video Ekleme
+-------------
+
+Hierarchy'de UI > Panel olustur
+Panel'e Raw Image ve Video Editor componenti ekle
+Image Componentini sil
+Assetlerde yeni Render Texture olustur
+Panel componentlerinde Raw Image > Texture a ve Video Player Target texture a yeni olusturdugumuz render texture i atiyoruz
+Video player a video clip i atiyoruz
